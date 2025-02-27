@@ -1,0 +1,21 @@
+{
+    "formSavedSuccessfully": "Formulaire publié avec succès",
+    "title": "Créer un nouveau formulaire",
+    "publish": "Publier le formulaire",
+    "formTitle": "Formulaire sans titre",
+    "addField": "Ajouter un nouveau champ",
+    "settings": "Paramètres",
+    "backgroundColor": "Couleur d'arrière-plan",
+    "fontFamily": "Famille de polices",
+    "formLabels": "Étiquettes du formulaire",
+    "turnedOn": "Activé",
+    "turnedOff": "Désactivé",
+    "menu": {
+        "myForms": "Mes formulaires",
+        "Forms": "formulaires",
+        "analytics": "Analytique",
+        "knowledgeBase": "Base de connaissances",
+        "helpSupport": "Aide et support",
+        "profile": "Mon profil"
+    }
+}

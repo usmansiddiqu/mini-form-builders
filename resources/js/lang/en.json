@@ -1,0 +1,21 @@
+{
+    "formSavedSuccessfully": "Form Published Successfully",
+    "title": "Create New Form",
+    "publish": "Publish Form",
+    "formTitle": "Untitled Form",
+    "addField": "Add New Field",
+    "settings": "Settings",
+    "backgroundColor": "Background Color",
+    "fontFamily": "Font Family",
+    "formLabels": "Form Labels",
+    "turnedOn": "Turned ON",
+    "turnedOff": "Turned OFF",
+    "menu": {
+        "myForms": "My Forms",
+        "Forms": "Forms",
+        "analytics": "Analytics",
+        "knowledgeBase": "Knowledge Base",
+        "helpSupport": "Help & Support",
+        "profile": "My Profile"
+    }
+}
